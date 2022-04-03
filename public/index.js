@@ -1,5 +1,8 @@
+
 let aside = document.querySelector('aside');
+
 let icon = aside.querySelector('.menu-icon');
+
 let li = aside.getElementsByClassName('nav-item');
 
 icon.onclick =()=> {
